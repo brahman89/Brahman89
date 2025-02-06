@@ -4,4 +4,28 @@
 
 ![Static Badge](https://img.shields.io/badge/py-python-red?style=plastic&logo=python&logoColor=white&labelColor=black&color=grey)
 
-https://camo.githubusercontent.com/2e1dd54bfc5d2b043502020c5908161a99723d3af397ba8c18db6d05673eb850/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d61766964636f64657231303126636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d7261646963616c
+
+-----
+
+My Github stats:
+
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=brahman89&theme=radical"/>
+        </td>
+        <td>
+            <img src="https://github-profile-trophy.vercel.app/?username=brahman89"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=brahman89&count_private=true&show_icons=true&theme=radical"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahman89&langs_count=10&layout=compact&hide=php,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+        </td>
+    </tr>
+</table>
+
+----
