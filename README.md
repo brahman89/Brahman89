@@ -12,9 +12,6 @@ My Github stats:
 <table>
     <tr>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=brahman89&theme=radical"/>
-        </td>
-        <td>
             <img src="https://github-profile-trophy.vercel.app/?username=brahman89"/>
         </td>
     </tr>
