@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img scr="https://github.com/brahman89/Brahman89/blob/main/475423105017201.gif" width="600">
+<img scr="https://github.com/brahman89/Brahman89/blob/main/475423105017201.gif" alt="The Unlimited">
 
 <!--
 **brahman89/Brahman89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
