@@ -10,7 +10,7 @@
 
 <!-- Этот iframe загружает интерактивную страницу -->
 <iframe 
-  src="https://brahman89.github.io/interactive-readme/" 
+  src="index.html" 
   width="100%" 
   height="500" 
   style="border:2px solid #ff6b6b; border-radius:10px;"
