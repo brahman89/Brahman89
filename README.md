@@ -1,4 +1,4 @@
-# 👋 Привет, я hate_urban!
+# 👋 Привет, я Dark_Brahman!
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -10,7 +10,7 @@
 
 <!-- Этот iframe загружает интерактивную страницу -->
 <iframe 
-  src="index.html" 
+  src="https://brahman89.github.io/interactive-readme/" 
   width="100%" 
   height="500" 
   style="border:2px solid #ff6b6b; border-radius:10px;"
@@ -93,7 +93,7 @@
   <span style="font-size:1.2em;">🎲 Нажми для случайного факта!</span>
 </div>
 
-
+```python
 def about_me():
     interests = ["Python", "Аниме", "Разработка", "Overlord"]
     current_project = "Работаю над интересными проектами"
